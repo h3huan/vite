@@ -5,7 +5,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="http://www.yanhuangxueyuan.com/threejs/files/favicon.ico" width="125" height="125" />
+    <img alt="Vue logo" class="logo" src="./assets/fav.ico" width="125" height="125" />
 
     <div class="wrapper">
       <HelloWorld msg="合欢与合欢花" />
